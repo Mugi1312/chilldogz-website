@@ -1,25 +1,36 @@
-# $CHILLDOGZ Official Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$CHILLDOGZ Official Website</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Official $CHILLDOGZ Website</h1>
+        <p>Your favorite meme coin on the Solana blockchain.</p>
+    </header>
 
-Welcome to the official website of **$CHILLDOGZ**, a meme coin based on the **Solana blockchain**.
+    <section>
+        <h2>About $CHILLDOGZ</h2>
+        <p>$CHILLDOGZ is a community-driven meme coin based on Solana blockchain.</p>
+    </section>
 
-## Features
-- **About $CHILLDOGZ**: Learn about the coin and its purpose.
-- **How to Buy $CHILLDOGZ**: A simple guide on how to purchase and hold $CHILLDOGZ.
-- **Contact Information**: Get in touch with us for support or inquiries.
+    <section>
+        <h2>How to Buy</h2>
+        <p>Learn how to buy $CHILLDOGZ on our supported exchanges.</p>
+    </section>
 
-## How to Use This Website
-This is a static website showcasing the **$CHILLDOGZ** meme coin. You can learn about the coin, how to buy it, and get in touch with us for any questions.
+    <section>
+        <h2>Join Our Community</h2>
+        <p>Stay connected with us on Telegram and Twitter:</p>
+        <ul>
+            <li><a href="https://t.me/+tJdk_IhtFAo3M2Fk" target="_blank">Join our Telegram group</a></li>
+            <li><a href="https://x.com/chilldogzz" target="_blank">Follow us on Twitter</a></li>
+        </ul>
+    </section>
 
-## How to Contribute
-Feel free to fork the repository, make improvements, and submit pull requests if you'd like to contribute to this project!
+    <footer>
+        <p>Contact us at <a href
 
-## License
-This project is open source. You are free to use, modify, and distribute it as per the license terms.
 
-## Contact
-For any inquiries, reach out to us at:  
-**Email**: [support@chilldogz.com](mailto:support@chilldogz.com)
-
----
-
-Thank you for visiting the official website for **$CHILLDOGZ**!
